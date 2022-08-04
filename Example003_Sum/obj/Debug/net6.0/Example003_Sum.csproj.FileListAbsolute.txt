@@ -1,0 +1,15 @@
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.csproj.AssemblyReference.cache
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.AssemblyInfoInputs.cache
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.AssemblyInfo.cs
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.csproj.CoreCompileInputs.cache
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.exe
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.deps.json
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.runtimeconfig.json
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.dll
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.pdb
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.dll
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\obj\Debug\net6.0\refint\Example003_Sum.dll
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.pdb
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.genruntimeconfig.cache
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example003_Sum\obj\Debug\net6.0\ref\Example003_Sum.dll
