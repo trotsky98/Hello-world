@@ -1,0 +1,15 @@
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.AssemblyReference.cache
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfo.cs
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.exe
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.deps.json
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.runtimeconfig.json
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.dll
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.pdb
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.dll
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\refint\Example005_ConditionIfElse.dll
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.pdb
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.genruntimeconfig.cache
+D:\GeeckBrains\1 четверть\Введение в языки программирования\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\ref\Example005_ConditionIfElse.dll
